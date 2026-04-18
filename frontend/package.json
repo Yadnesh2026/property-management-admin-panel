@@ -1,0 +1,15 @@
+{
+  "name": "property-management-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.2.3",
+    "property-management-admin-panel": "file:..",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
